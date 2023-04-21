@@ -1,0 +1,52 @@
+ @import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+body {
+    font-family: Lora;
+}
+.header {
+    
+    background-image: url(F.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+
+}
+.Indice {
+    list-style-type: none;
+    margin: 2;
+    padding: 2;
+    overflow: hidden;
+    background-color: dodgerblue;
+
+}
+H1 {
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+a {
+    display: block;
+    color: rgb(2, 2, 22);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li {
+    font-size: 25px;
+}
+img {
+    width: 400px;
+}
+dt {
+    font-size: 30px;
+}
+dd {
+    font-size: 25px;
+}
+p{
+    font-size: 25;
+}
+
